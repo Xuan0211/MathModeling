@@ -1,0 +1,266 @@
+----------------------------------------
+有色板块开盘价    with    有色板块成交量
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0593  , p=0.8077  , df_denom=541, df_num=1
+ssr based chi2 test:   chi2=0.0597  , p=0.8070  , df=1
+likelihood ratio test: chi2=0.0596  , p=0.8071  , df=1
+parameter F test:         F=0.0593  , p=0.8077  , df_denom=541, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=0.0817  , p=0.9215  , df_denom=538, df_num=2
+ssr based chi2 test:   chi2=0.1650  , p=0.9208  , df=2
+likelihood ratio test: chi2=0.1650  , p=0.9208  , df=2
+parameter F test:         F=0.0817  , p=0.9215  , df_denom=538, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=0.1161  , p=0.9506  , df_denom=535, df_num=3
+ssr based chi2 test:   chi2=0.3530  , p=0.9498  , df=3
+likelihood ratio test: chi2=0.3528  , p=0.9498  , df=3
+parameter F test:         F=0.1161  , p=0.9506  , df_denom=535, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=0.1269  , p=0.9727  , df_denom=532, df_num=4
+ssr based chi2 test:   chi2=0.5162  , p=0.9719  , df=4
+likelihood ratio test: chi2=0.5159  , p=0.9719  , df=4
+parameter F test:         F=0.1269  , p=0.9727  , df_denom=532, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=0.1381  , p=0.9834  , df_denom=529, df_num=5
+ssr based chi2 test:   chi2=0.7051  , p=0.9827  , df=5
+likelihood ratio test: chi2=0.7046  , p=0.9827  , df=5
+parameter F test:         F=0.1381  , p=0.9834  , df_denom=529, df_num=5
+----------------------------------------
+----------------------------------------
+有色板块等权平均市场收益率    with    有色板块成交量
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0178  , p=0.8940  , df_denom=541, df_num=1
+ssr based chi2 test:   chi2=0.0179  , p=0.8937  , df=1
+likelihood ratio test: chi2=0.0179  , p=0.8937  , df=1
+parameter F test:         F=0.0178  , p=0.8940  , df_denom=541, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=0.0511  , p=0.9502  , df_denom=538, df_num=2
+ssr based chi2 test:   chi2=0.1032  , p=0.9497  , df=2
+likelihood ratio test: chi2=0.1032  , p=0.9497  , df=2
+parameter F test:         F=0.0511  , p=0.9502  , df_denom=538, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=0.0920  , p=0.9644  , df_denom=535, df_num=3
+ssr based chi2 test:   chi2=0.2796  , p=0.9638  , df=3
+likelihood ratio test: chi2=0.2795  , p=0.9638  , df=3
+parameter F test:         F=0.0920  , p=0.9644  , df_denom=535, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=0.0644  , p=0.9924  , df_denom=532, df_num=4
+ssr based chi2 test:   chi2=0.2618  , p=0.9921  , df=4
+likelihood ratio test: chi2=0.2618  , p=0.9921  , df=4
+parameter F test:         F=0.0644  , p=0.9924  , df_denom=532, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=0.1999  , p=0.9624  , df_denom=529, df_num=5
+ssr based chi2 test:   chi2=1.0204  , p=0.9609  , df=5
+likelihood ratio test: chi2=1.0195  , p=0.9610  , df=5
+parameter F test:         F=0.1999  , p=0.9624  , df_denom=529, df_num=5
+----------------------------------------
+----------------------------------------
+有色板块日收益率    with    有色板块成交量
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0241  , p=0.8767  , df_denom=541, df_num=1
+ssr based chi2 test:   chi2=0.0242  , p=0.8763  , df=1
+likelihood ratio test: chi2=0.0242  , p=0.8763  , df=1
+parameter F test:         F=0.0241  , p=0.8767  , df_denom=541, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=0.2442  , p=0.7834  , df_denom=538, df_num=2
+ssr based chi2 test:   chi2=0.4929  , p=0.7816  , df=2
+likelihood ratio test: chi2=0.4926  , p=0.7817  , df=2
+parameter F test:         F=0.2442  , p=0.7834  , df_denom=538, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=0.1406  , p=0.9357  , df_denom=535, df_num=3
+ssr based chi2 test:   chi2=0.4272  , p=0.9346  , df=3
+likelihood ratio test: chi2=0.4270  , p=0.9346  , df=3
+parameter F test:         F=0.1406  , p=0.9357  , df_denom=535, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=0.0997  , p=0.9825  , df_denom=532, df_num=4
+ssr based chi2 test:   chi2=0.4056  , p=0.9820  , df=4
+likelihood ratio test: chi2=0.4054  , p=0.9820  , df=4
+parameter F test:         F=0.0997  , p=0.9825  , df_denom=532, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=0.7335  , p=0.5985  , df_denom=529, df_num=5
+ssr based chi2 test:   chi2=3.7438  , p=0.5869  , df=5
+likelihood ratio test: chi2=3.7309  , p=0.5888  , df=5
+parameter F test:         F=0.7335  , p=0.5985  , df_denom=529, df_num=5
+----------------------------------------
+----------------------------------------
+有色板块日无风险收益率    with    有色板块成交量
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=6.2721  , p=0.0126  , df_denom=541, df_num=1
+ssr based chi2 test:   chi2=6.3068  , p=0.0120  , df=1
+likelihood ratio test: chi2=6.2706  , p=0.0123  , df=1
+parameter F test:         F=6.2721  , p=0.0126  , df_denom=541, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=2.6373  , p=0.0725  , df_denom=538, df_num=2
+ssr based chi2 test:   chi2=5.3235  , p=0.0698  , df=2
+likelihood ratio test: chi2=5.2976  , p=0.0707  , df=2
+parameter F test:         F=2.6263  , p=0.0733  , df_denom=538, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=1.7586  , p=0.1541  , df_denom=535, df_num=3
+ssr based chi2 test:   chi2=5.3450  , p=0.1482  , df=3
+likelihood ratio test: chi2=5.3188  , p=0.1499  , df=3
+parameter F test:         F=1.7459  , p=0.1566  , df_denom=535, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=1.2147  , p=0.3035  , df_denom=532, df_num=4
+ssr based chi2 test:   chi2=4.9408  , p=0.2934  , df=4
+likelihood ratio test: chi2=4.9184  , p=0.2958  , df=4
+parameter F test:         F=1.2175  , p=0.3023  , df_denom=532, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=0.8766  , p=0.4965  , df_denom=529, df_num=5
+ssr based chi2 test:   chi2=4.4742  , p=0.4833  , df=5
+likelihood ratio test: chi2=4.4558  , p=0.4858  , df=5
+parameter F test:         F=0.8841  , p=0.4914  , df_denom=529, df_num=5
+----------------------------------------
+----------------------------------------
+有色板块日震幅    with    有色板块成交量
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=27.5581 , p=0.0000  , df_denom=541, df_num=1
+ssr based chi2 test:   chi2=27.7110 , p=0.0000  , df=1
+likelihood ratio test: chi2=27.0283 , p=0.0000  , df=1
+parameter F test:         F=27.5581 , p=0.0000  , df_denom=541, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=9.7034  , p=0.0001  , df_denom=538, df_num=2
+ssr based chi2 test:   chi2=19.5873 , p=0.0001  , df=2
+likelihood ratio test: chi2=19.2422 , p=0.0001  , df=2
+parameter F test:         F=9.7034  , p=0.0001  , df_denom=538, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=4.9697  , p=0.0021  , df_denom=535, df_num=3
+ssr based chi2 test:   chi2=15.1042 , p=0.0017  , df=3
+likelihood ratio test: chi2=14.8976 , p=0.0019  , df=3
+parameter F test:         F=4.9697  , p=0.0021  , df_denom=535, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=2.7917  , p=0.0258  , df_denom=532, df_num=4
+ssr based chi2 test:   chi2=11.3558 , p=0.0228  , df=4
+likelihood ratio test: chi2=11.2383 , p=0.0240  , df=4
+parameter F test:         F=2.7917  , p=0.0258  , df_denom=532, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=2.1402  , p=0.0594  , df_denom=529, df_num=5
+ssr based chi2 test:   chi2=10.9234 , p=0.0529  , df=5
+likelihood ratio test: chi2=10.8144 , p=0.0552  , df=5
+parameter F test:         F=2.1402  , p=0.0594  , df_denom=529, df_num=5
+----------------------------------------
+----------------------------------------
+有色板块市净率    with    有色板块成交量
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=1.7102  , p=0.1915  , df_denom=541, df_num=1
+ssr based chi2 test:   chi2=1.7197  , p=0.1897  , df=1
+likelihood ratio test: chi2=1.7170  , p=0.1901  , df=1
+parameter F test:         F=1.7102  , p=0.1915  , df_denom=541, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=0.8789  , p=0.4158  , df_denom=538, df_num=2
+ssr based chi2 test:   chi2=1.7741  , p=0.4119  , df=2
+likelihood ratio test: chi2=1.7712  , p=0.4125  , df=2
+parameter F test:         F=0.8789  , p=0.4158  , df_denom=538, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=0.8504  , p=0.4668  , df_denom=535, df_num=3
+ssr based chi2 test:   chi2=2.5846  , p=0.4602  , df=3
+likelihood ratio test: chi2=2.5784  , p=0.4613  , df=3
+parameter F test:         F=0.8504  , p=0.4668  , df_denom=535, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=0.6474  , p=0.6289  , df_denom=532, df_num=4
+ssr based chi2 test:   chi2=2.6336  , p=0.6209  , df=4
+likelihood ratio test: chi2=2.6272  , p=0.6220  , df=4
+parameter F test:         F=0.6474  , p=0.6289  , df_denom=532, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=0.5216  , p=0.7600  , df_denom=529, df_num=5
+ssr based chi2 test:   chi2=2.6620  , p=0.7519  , df=5
+likelihood ratio test: chi2=2.6555  , p=0.7529  , df=5
+parameter F test:         F=0.5216  , p=0.7600  , df_denom=529, df_num=5
+----------------------------------------
+----------------------------------------
+有色板块市现率    with    有色板块成交量
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=3.3968  , p=0.0659  , df_denom=541, df_num=1
+ssr based chi2 test:   chi2=3.4156  , p=0.0646  , df=1
+likelihood ratio test: chi2=3.4049  , p=0.0650  , df=1
+parameter F test:         F=3.3968  , p=0.0659  , df_denom=541, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=2.8671  , p=0.0577  , df_denom=538, df_num=2
+ssr based chi2 test:   chi2=5.7875  , p=0.0554  , df=2
+likelihood ratio test: chi2=5.7569  , p=0.0562  , df=2
+parameter F test:         F=2.8671  , p=0.0577  , df_denom=538, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=2.1690  , p=0.0907  , df_denom=535, df_num=3
+ssr based chi2 test:   chi2=6.5920  , p=0.0861  , df=3
+likelihood ratio test: chi2=6.5522  , p=0.0876  , df=3
+parameter F test:         F=2.1690  , p=0.0907  , df_denom=535, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=1.7695  , p=0.1336  , df_denom=532, df_num=4
+ssr based chi2 test:   chi2=7.1976  , p=0.1258  , df=4
+likelihood ratio test: chi2=7.1501  , p=0.1282  , df=4
+parameter F test:         F=1.7695  , p=0.1336  , df_denom=532, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=1.7837  , p=0.1144  , df_denom=529, df_num=5
+ssr based chi2 test:   chi2=9.1038  , p=0.1050  , df=5
+likelihood ratio test: chi2=9.0279  , p=0.1080  , df=5
+parameter F test:         F=1.7837  , p=0.1144  , df_denom=529, df_num=5
+----------------------------------------

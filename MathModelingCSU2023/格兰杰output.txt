@@ -1,0 +1,170 @@
+----------------------------------------
+开盘价_Oppr    with    总股数日换手率(%)_DFulTurnR
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=35.2595 , p=0.0000  , df_denom=540, df_num=1
+ssr based chi2 test:   chi2=35.4554 , p=0.0000  , df=1
+likelihood ratio test: chi2=34.3459 , p=0.0000  , df=1
+parameter F test:         F=35.2595 , p=0.0000  , df_denom=540, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=23.3937 , p=0.0000  , df_denom=537, df_num=2
+ssr based chi2 test:   chi2=47.2229 , p=0.0000  , df=2
+likelihood ratio test: chi2=45.2779 , p=0.0000  , df=2
+parameter F test:         F=23.3937 , p=0.0000  , df_denom=537, df_num=2
+----------------------------------------
+----------------------------------------
+开盘价_Oppr    with    成交量_Trdvol
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=35.2593 , p=0.0000  , df_denom=540, df_num=1
+ssr based chi2 test:   chi2=35.4552 , p=0.0000  , df=1
+likelihood ratio test: chi2=34.3457 , p=0.0000  , df=1
+parameter F test:         F=35.2593 , p=0.0000  , df_denom=540, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=23.3935 , p=0.0000  , df_denom=537, df_num=2
+ssr based chi2 test:   chi2=47.2226 , p=0.0000  , df=2
+likelihood ratio test: chi2=45.2776 , p=0.0000  , df=2
+parameter F test:         F=23.3935 , p=0.0000  , df_denom=537, df_num=2
+----------------------------------------
+----------------------------------------
+日振幅(%)_Dampltd    with    总股数日换手率(%)_DFulTurnR
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=59.7342 , p=0.0000  , df_denom=540, df_num=1
+ssr based chi2 test:   chi2=60.0661 , p=0.0000  , df=1
+likelihood ratio test: chi2=56.9702 , p=0.0000  , df=1
+parameter F test:         F=59.7342 , p=0.0000  , df_denom=540, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=18.9765 , p=0.0000  , df_denom=537, df_num=2
+ssr based chi2 test:   chi2=38.3063 , p=0.0000  , df=2
+likelihood ratio test: chi2=37.0133 , p=0.0000  , df=2
+parameter F test:         F=18.9765 , p=0.0000  , df_denom=537, df_num=2
+----------------------------------------
+----------------------------------------
+日振幅(%)_Dampltd    with    成交量_Trdvol
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=59.7349 , p=0.0000  , df_denom=540, df_num=1
+ssr based chi2 test:   chi2=60.0667 , p=0.0000  , df=1
+likelihood ratio test: chi2=56.9708 , p=0.0000  , df=1
+parameter F test:         F=59.7349 , p=0.0000  , df_denom=540, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=18.9764 , p=0.0000  , df_denom=537, df_num=2
+ssr based chi2 test:   chi2=38.3062 , p=0.0000  , df=2
+likelihood ratio test: chi2=37.0131 , p=0.0000  , df=2
+parameter F test:         F=18.9764 , p=0.0000  , df_denom=537, df_num=2
+----------------------------------------
+----------------------------------------
+等权平均市场日资本收益率_Dareteq    with    总股数日换手率(%)_DFulTurnR
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.8689  , p=0.3517  , df_denom=540, df_num=1
+ssr based chi2 test:   chi2=0.8738  , p=0.3499  , df=1
+likelihood ratio test: chi2=0.8731  , p=0.3501  , df=1
+parameter F test:         F=0.8689  , p=0.3517  , df_denom=540, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=0.9522  , p=0.3865  , df_denom=537, df_num=2
+ssr based chi2 test:   chi2=1.9222  , p=0.3825  , df=2
+likelihood ratio test: chi2=1.9188  , p=0.3831  , df=2
+parameter F test:         F=0.9522  , p=0.3865  , df_denom=537, df_num=2
+----------------------------------------
+----------------------------------------
+等权平均市场日资本收益率_Dareteq    with    成交量_Trdvol
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.8690  , p=0.3517  , df_denom=540, df_num=1
+ssr based chi2 test:   chi2=0.8738  , p=0.3499  , df=1
+likelihood ratio test: chi2=0.8731  , p=0.3501  , df=1
+parameter F test:         F=0.8690  , p=0.3517  , df_denom=540, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=0.9522  , p=0.3865  , df_denom=537, df_num=2
+ssr based chi2 test:   chi2=1.9221  , p=0.3825  , df=2
+likelihood ratio test: chi2=1.9187  , p=0.3831  , df=2
+parameter F test:         F=0.9522  , p=0.3865  , df_denom=537, df_num=2
+----------------------------------------
+----------------------------------------
+日无风险收益率_DRfRet    with    总股数日换手率(%)_DFulTurnR
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.4621  , p=0.4969  , df_denom=540, df_num=1
+ssr based chi2 test:   chi2=0.4647  , p=0.4954  , df=1
+likelihood ratio test: chi2=0.4645  , p=0.4955  , df=1
+parameter F test:         F=0.4621  , p=0.4969  , df_denom=540, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=0.0531  , p=0.9483  , df_denom=537, df_num=2
+ssr based chi2 test:   chi2=0.1071  , p=0.9479  , df=2
+likelihood ratio test: chi2=0.1071  , p=0.9479  , df=2
+parameter F test:         F=0.0531  , p=0.9483  , df_denom=537, df_num=2
+----------------------------------------
+----------------------------------------
+日无风险收益率_DRfRet    with    成交量_Trdvol
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.4621  , p=0.4969  , df_denom=540, df_num=1
+ssr based chi2 test:   chi2=0.4646  , p=0.4955  , df=1
+likelihood ratio test: chi2=0.4644  , p=0.4956  , df=1
+parameter F test:         F=0.4621  , p=0.4969  , df_denom=540, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=-115.7535, p=1.0000  , df_denom=538, df_num=2
+ssr based chi2 test:   chi2=-233.2283, p=1.0000  , df=2
+likelihood ratio test: chi2=-304.9639, p=1.0000  , df=2
+parameter F test:         F=0.1642  , p=0.8486  , df_denom=538, df_num=2
+----------------------------------------
+----------------------------------------
+市现率_PCF    with    总股数日换手率(%)_DFulTurnR
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=2.2735  , p=0.1322  , df_denom=540, df_num=1
+ssr based chi2 test:   chi2=2.2861  , p=0.1305  , df=1
+likelihood ratio test: chi2=2.2813  , p=0.1309  , df=1
+parameter F test:         F=2.2735  , p=0.1322  , df_denom=540, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=1.4283  , p=0.2406  , df_denom=537, df_num=2
+ssr based chi2 test:   chi2=2.8832  , p=0.2365  , df=2
+likelihood ratio test: chi2=2.8756  , p=0.2374  , df=2
+parameter F test:         F=1.4283  , p=0.2406  , df_denom=537, df_num=2
+----------------------------------------
+----------------------------------------
+市现率_PCF    with    成交量_Trdvol
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=2.2735  , p=0.1322  , df_denom=540, df_num=1
+ssr based chi2 test:   chi2=2.2861  , p=0.1305  , df=1
+likelihood ratio test: chi2=2.2813  , p=0.1309  , df=1
+parameter F test:         F=2.2735  , p=0.1322  , df_denom=540, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=1.4284  , p=0.2406  , df_denom=537, df_num=2
+ssr based chi2 test:   chi2=2.8833  , p=0.2365  , df=2
+likelihood ratio test: chi2=2.8757  , p=0.2374  , df=2
+parameter F test:         F=1.4284  , p=0.2406  , df_denom=537, df_num=2
+----------------------------------------

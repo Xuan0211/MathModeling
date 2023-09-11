@@ -1,0 +1,444 @@
+----------------------------------------
+花叶类: 代理指数 with 单价
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=5.4169  , p=0.0201  , df_denom=1091, df_num=1
+ssr based chi2 test:   chi2=5.4318  , p=0.0198  , df=1
+likelihood ratio test: chi2=5.4184  , p=0.0199  , df=1
+parameter F test:         F=5.4169  , p=0.0201  , df_denom=1091, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=2.1861  , p=0.1128  , df_denom=1088, df_num=2
+ssr based chi2 test:   chi2=4.3923  , p=0.1112  , df=2
+likelihood ratio test: chi2=4.3835  , p=0.1117  , df=2
+parameter F test:         F=2.1861  , p=0.1128  , df_denom=1088, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=1.0230  , p=0.3815  , df_denom=1085, df_num=3
+ssr based chi2 test:   chi2=3.0888  , p=0.3781  , df=3
+likelihood ratio test: chi2=3.0844  , p=0.3788  , df=3
+parameter F test:         F=1.0230  , p=0.3815  , df_denom=1085, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=0.7206  , p=0.5779  , df_denom=1082, df_num=4
+ssr based chi2 test:   chi2=2.9065  , p=0.5736  , df=4
+likelihood ratio test: chi2=2.9027  , p=0.5742  , df=4
+parameter F test:         F=0.7206  , p=0.5779  , df_denom=1082, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=0.6080  , p=0.6939  , df_denom=1079, df_num=5
+ssr based chi2 test:   chi2=3.0708  , p=0.6891  , df=5
+likelihood ratio test: chi2=3.0665  , p=0.6897  , df=5
+parameter F test:         F=0.6080  , p=0.6939  , df_denom=1079, df_num=5
+----------------------------------------
+花叶类: 单价 with 代理指数
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.4338  , p=0.5103  , df_denom=1091, df_num=1
+ssr based chi2 test:   chi2=0.4350  , p=0.5096  , df=1
+likelihood ratio test: chi2=0.4349  , p=0.5096  , df=1
+parameter F test:         F=0.4338  , p=0.5103  , df_denom=1091, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=0.6139  , p=0.5414  , df_denom=1088, df_num=2
+ssr based chi2 test:   chi2=1.2334  , p=0.5397  , df=2
+likelihood ratio test: chi2=1.2327  , p=0.5399  , df=2
+parameter F test:         F=0.6139  , p=0.5414  , df_denom=1088, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=0.4046  , p=0.7498  , df_denom=1085, df_num=3
+ssr based chi2 test:   chi2=1.2215  , p=0.7479  , df=3
+likelihood ratio test: chi2=1.2208  , p=0.7480  , df=3
+parameter F test:         F=0.4046  , p=0.7498  , df_denom=1085, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=0.3219  , p=0.8634  , df_denom=1082, df_num=4
+ssr based chi2 test:   chi2=1.2982  , p=0.8617  , df=4
+likelihood ratio test: chi2=1.2975  , p=0.8618  , df=4
+parameter F test:         F=0.3219  , p=0.8634  , df_denom=1082, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=0.2831  , p=0.9225  , df_denom=1079, df_num=5
+ssr based chi2 test:   chi2=1.4301  , p=0.9210  , df=5
+likelihood ratio test: chi2=1.4292  , p=0.9211  , df=5
+parameter F test:         F=0.2831  , p=0.9225  , df_denom=1079, df_num=5
+----------------------------------------
+花菜类: 代理指数 with 单价
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.3052  , p=0.5807  , df_denom=1091, df_num=1
+ssr based chi2 test:   chi2=0.3061  , p=0.5801  , df=1
+likelihood ratio test: chi2=0.3060  , p=0.5801  , df=1
+parameter F test:         F=0.3052  , p=0.5807  , df_denom=1091, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=0.2333  , p=0.7919  , df_denom=1088, df_num=2
+ssr based chi2 test:   chi2=0.4688  , p=0.7911  , df=2
+likelihood ratio test: chi2=0.4687  , p=0.7911  , df=2
+parameter F test:         F=0.2333  , p=0.7919  , df_denom=1088, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=0.8981  , p=0.4416  , df_denom=1085, df_num=3
+ssr based chi2 test:   chi2=2.7117  , p=0.4382  , df=3
+likelihood ratio test: chi2=2.7083  , p=0.4388  , df=3
+parameter F test:         F=0.8981  , p=0.4416  , df_denom=1085, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=0.7119  , p=0.5838  , df_denom=1082, df_num=4
+ssr based chi2 test:   chi2=2.8712  , p=0.5796  , df=4
+likelihood ratio test: chi2=2.8674  , p=0.5802  , df=4
+parameter F test:         F=0.7119  , p=0.5838  , df_denom=1082, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=0.6950  , p=0.6273  , df_denom=1079, df_num=5
+ssr based chi2 test:   chi2=3.5104  , p=0.6218  , df=5
+likelihood ratio test: chi2=3.5048  , p=0.6227  , df=5
+parameter F test:         F=0.6950  , p=0.6273  , df_denom=1079, df_num=5
+----------------------------------------
+花菜类: 单价 with 代理指数
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=10.0630 , p=0.0016  , df_denom=1091, df_num=1
+ssr based chi2 test:   chi2=10.0906 , p=0.0015  , df=1
+likelihood ratio test: chi2=10.0444 , p=0.0015  , df=1
+parameter F test:         F=10.0630 , p=0.0016  , df_denom=1091, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=4.4455  , p=0.0119  , df_denom=1088, df_num=2
+ssr based chi2 test:   chi2=8.9319  , p=0.0115  , df=2
+likelihood ratio test: chi2=8.8956  , p=0.0117  , df=2
+parameter F test:         F=4.4455  , p=0.0119  , df_denom=1088, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=3.7871  , p=0.0102  , df_denom=1085, df_num=3
+ssr based chi2 test:   chi2=11.4345 , p=0.0096  , df=3
+likelihood ratio test: chi2=11.3751 , p=0.0099  , df=3
+parameter F test:         F=3.7871  , p=0.0102  , df_denom=1085, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=2.8246  , p=0.0239  , df_denom=1082, df_num=4
+ssr based chi2 test:   chi2=11.3925 , p=0.0225  , df=4
+likelihood ratio test: chi2=11.3334 , p=0.0231  , df=4
+parameter F test:         F=2.8246  , p=0.0239  , df_denom=1082, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=2.3737  , p=0.0373  , df_denom=1079, df_num=5
+ssr based chi2 test:   chi2=11.9893 , p=0.0349  , df=5
+likelihood ratio test: chi2=11.9238 , p=0.0358  , df=5
+parameter F test:         F=2.3737  , p=0.0373  , df_denom=1079, df_num=5
+----------------------------------------
+水生根茎类: 代理指数 with 单价
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=37.7036 , p=0.0000  , df_denom=1091, df_num=1
+ssr based chi2 test:   chi2=37.8073 , p=0.0000  , df=1
+likelihood ratio test: chi2=37.1687 , p=0.0000  , df=1
+parameter F test:         F=37.7036 , p=0.0000  , df_denom=1091, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=10.6760 , p=0.0000  , df_denom=1088, df_num=2
+ssr based chi2 test:   chi2=21.4501 , p=0.0000  , df=2
+likelihood ratio test: chi2=21.2423 , p=0.0000  , df=2
+parameter F test:         F=10.6760 , p=0.0000  , df_denom=1088, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=6.2693  , p=0.0003  , df_denom=1085, df_num=3
+ssr based chi2 test:   chi2=18.9294 , p=0.0003  , df=3
+likelihood ratio test: chi2=18.7672 , p=0.0003  , df=3
+parameter F test:         F=6.2693  , p=0.0003  , df_denom=1085, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=3.6216  , p=0.0061  , df_denom=1082, df_num=4
+ssr based chi2 test:   chi2=14.6070 , p=0.0056  , df=4
+likelihood ratio test: chi2=14.5101 , p=0.0058  , df=4
+parameter F test:         F=3.6216  , p=0.0061  , df_denom=1082, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=2.5732  , p=0.0253  , df_denom=1079, df_num=5
+ssr based chi2 test:   chi2=12.9971 , p=0.0234  , df=5
+likelihood ratio test: chi2=12.9202 , p=0.0241  , df=5
+parameter F test:         F=2.5732  , p=0.0253  , df_denom=1079, df_num=5
+----------------------------------------
+水生根茎类: 单价 with 代理指数
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=21.7683 , p=0.0000  , df_denom=1091, df_num=1
+ssr based chi2 test:   chi2=21.8281 , p=0.0000  , df=1
+likelihood ratio test: chi2=21.6132 , p=0.0000  , df=1
+parameter F test:         F=21.7683 , p=0.0000  , df_denom=1091, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=4.6302  , p=0.0099  , df_denom=1088, df_num=2
+ssr based chi2 test:   chi2=9.3030  , p=0.0095  , df=2
+likelihood ratio test: chi2=9.2636  , p=0.0097  , df=2
+parameter F test:         F=4.6302  , p=0.0099  , df_denom=1088, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=2.9258  , p=0.0329  , df_denom=1085, df_num=3
+ssr based chi2 test:   chi2=8.8341  , p=0.0316  , df=3
+likelihood ratio test: chi2=8.7986  , p=0.0321  , df=3
+parameter F test:         F=2.9258  , p=0.0329  , df_denom=1085, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=1.1703  , p=0.3222  , df_denom=1082, df_num=4
+ssr based chi2 test:   chi2=4.7203  , p=0.3172  , df=4
+likelihood ratio test: chi2=4.7101  , p=0.3184  , df=4
+parameter F test:         F=1.1703  , p=0.3222  , df_denom=1082, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=0.9267  , p=0.4627  , df_denom=1079, df_num=5
+ssr based chi2 test:   chi2=4.6805  , p=0.4561  , df=5
+likelihood ratio test: chi2=4.6705  , p=0.4574  , df=5
+parameter F test:         F=0.9267  , p=0.4627  , df_denom=1079, df_num=5
+----------------------------------------
+茄类: 代理指数 with 单价
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=6.8759  , p=0.0089  , df_denom=1091, df_num=1
+ssr based chi2 test:   chi2=6.8948  , p=0.0086  , df=1
+likelihood ratio test: chi2=6.8732  , p=0.0087  , df=1
+parameter F test:         F=6.8759  , p=0.0089  , df_denom=1091, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=1.9199  , p=0.1471  , df_denom=1088, df_num=2
+ssr based chi2 test:   chi2=3.8575  , p=0.1453  , df=2
+likelihood ratio test: chi2=3.8508  , p=0.1458  , df=2
+parameter F test:         F=1.9199  , p=0.1471  , df_denom=1088, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=0.5603  , p=0.6413  , df_denom=1085, df_num=3
+ssr based chi2 test:   chi2=1.6916  , p=0.6388  , df=3
+likelihood ratio test: chi2=1.6903  , p=0.6391  , df=3
+parameter F test:         F=0.5603  , p=0.6413  , df_denom=1085, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=0.5155  , p=0.7244  , df_denom=1082, df_num=4
+ssr based chi2 test:   chi2=2.0791  , p=0.7212  , df=4
+likelihood ratio test: chi2=2.0771  , p=0.7216  , df=4
+parameter F test:         F=0.5155  , p=0.7244  , df_denom=1082, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=0.8326  , p=0.5265  , df_denom=1079, df_num=5
+ssr based chi2 test:   chi2=4.2053  , p=0.5203  , df=5
+likelihood ratio test: chi2=4.1972  , p=0.5214  , df=5
+parameter F test:         F=0.8326  , p=0.5265  , df_denom=1079, df_num=5
+----------------------------------------
+茄类: 单价 with 代理指数
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.0137  , p=0.9068  , df_denom=1091, df_num=1
+ssr based chi2 test:   chi2=0.0137  , p=0.9067  , df=1
+likelihood ratio test: chi2=0.0137  , p=0.9067  , df=1
+parameter F test:         F=0.0137  , p=0.9068  , df_denom=1091, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=3.9776  , p=0.0190  , df_denom=1088, df_num=2
+ssr based chi2 test:   chi2=7.9918  , p=0.0184  , df=2
+likelihood ratio test: chi2=7.9627  , p=0.0187  , df=2
+parameter F test:         F=3.9776  , p=0.0190  , df_denom=1088, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=2.6879  , p=0.0452  , df_denom=1085, df_num=3
+ssr based chi2 test:   chi2=8.1157  , p=0.0437  , df=3
+likelihood ratio test: chi2=8.0857  , p=0.0443  , df=3
+parameter F test:         F=2.6879  , p=0.0452  , df_denom=1085, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=2.3340  , p=0.0539  , df_denom=1082, df_num=4
+ssr based chi2 test:   chi2=9.4136  , p=0.0516  , df=4
+likelihood ratio test: chi2=9.3732  , p=0.0524  , df=4
+parameter F test:         F=2.3340  , p=0.0539  , df_denom=1082, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=1.9031  , p=0.0911  , df_denom=1079, df_num=5
+ssr based chi2 test:   chi2=9.6126  , p=0.0870  , df=5
+likelihood ratio test: chi2=9.5705  , p=0.0884  , df=5
+parameter F test:         F=1.9031  , p=0.0911  , df_denom=1079, df_num=5
+----------------------------------------
+辣椒类: 代理指数 with 单价
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=13.5723 , p=0.0002  , df_denom=1091, df_num=1
+ssr based chi2 test:   chi2=13.6096 , p=0.0002  , df=1
+likelihood ratio test: chi2=13.5256 , p=0.0002  , df=1
+parameter F test:         F=13.5723 , p=0.0002  , df_denom=1091, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=5.5736  , p=0.0039  , df_denom=1088, df_num=2
+ssr based chi2 test:   chi2=11.1984 , p=0.0037  , df=2
+likelihood ratio test: chi2=11.1414 , p=0.0038  , df=2
+parameter F test:         F=5.5736  , p=0.0039  , df_denom=1088, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=2.7461  , p=0.0418  , df_denom=1085, df_num=3
+ssr based chi2 test:   chi2=8.2916  , p=0.0404  , df=3
+likelihood ratio test: chi2=8.2603  , p=0.0409  , df=3
+parameter F test:         F=2.7461  , p=0.0418  , df_denom=1085, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=1.7196  , p=0.1433  , df_denom=1082, df_num=4
+ssr based chi2 test:   chi2=6.9357  , p=0.1393  , df=4
+likelihood ratio test: chi2=6.9138  , p=0.1405  , df=4
+parameter F test:         F=1.7196  , p=0.1433  , df_denom=1082, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=1.3167  , p=0.2544  , df_denom=1079, df_num=5
+ssr based chi2 test:   chi2=6.6505  , p=0.2480  , df=5
+likelihood ratio test: chi2=6.6303  , p=0.2496  , df=5
+parameter F test:         F=1.3167  , p=0.2544  , df_denom=1079, df_num=5
+----------------------------------------
+辣椒类: 单价 with 代理指数
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=0.1474  , p=0.7012  , df_denom=1091, df_num=1
+ssr based chi2 test:   chi2=0.1478  , p=0.7007  , df=1
+likelihood ratio test: chi2=0.1477  , p=0.7007  , df=1
+parameter F test:         F=0.1474  , p=0.7012  , df_denom=1091, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=0.4246  , p=0.6542  , df_denom=1088, df_num=2
+ssr based chi2 test:   chi2=0.8530  , p=0.6528  , df=2
+likelihood ratio test: chi2=0.8527  , p=0.6529  , df=2
+parameter F test:         F=0.4246  , p=0.6542  , df_denom=1088, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=0.2805  , p=0.8395  , df_denom=1085, df_num=3
+ssr based chi2 test:   chi2=0.8469  , p=0.8382  , df=3
+likelihood ratio test: chi2=0.8466  , p=0.8383  , df=3
+parameter F test:         F=0.2805  , p=0.8395  , df_denom=1085, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=0.2721  , p=0.8960  , df_denom=1082, df_num=4
+ssr based chi2 test:   chi2=1.0974  , p=0.8947  , df=4
+likelihood ratio test: chi2=1.0969  , p=0.8948  , df=4
+parameter F test:         F=0.2721  , p=0.8960  , df_denom=1082, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=0.7640  , p=0.5758  , df_denom=1079, df_num=5
+ssr based chi2 test:   chi2=3.8591  , p=0.5699  , df=5
+likelihood ratio test: chi2=3.8523  , p=0.5709  , df=5
+parameter F test:         F=0.7640  , p=0.5758  , df_denom=1079, df_num=5
+----------------------------------------
+食用菌: 代理指数 with 单价
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=38.0876 , p=0.0000  , df_denom=1091, df_num=1
+ssr based chi2 test:   chi2=38.1923 , p=0.0000  , df=1
+likelihood ratio test: chi2=37.5408 , p=0.0000  , df=1
+parameter F test:         F=38.0876 , p=0.0000  , df_denom=1091, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=12.3857 , p=0.0000  , df_denom=1088, df_num=2
+ssr based chi2 test:   chi2=24.8852 , p=0.0000  , df=2
+likelihood ratio test: chi2=24.6061 , p=0.0000  , df=2
+parameter F test:         F=12.3857 , p=0.0000  , df_denom=1088, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=6.9388  , p=0.0001  , df_denom=1085, df_num=3
+ssr based chi2 test:   chi2=20.9506 , p=0.0001  , df=3
+likelihood ratio test: chi2=20.7522 , p=0.0001  , df=3
+parameter F test:         F=6.9388  , p=0.0001  , df_denom=1085, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=4.2499  , p=0.0020  , df_denom=1082, df_num=4
+ssr based chi2 test:   chi2=17.1411 , p=0.0018  , df=4
+likelihood ratio test: chi2=17.0078 , p=0.0019  , df=4
+parameter F test:         F=4.2499  , p=0.0020  , df_denom=1082, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=3.2928  , p=0.0059  , df_denom=1079, df_num=5
+ssr based chi2 test:   chi2=16.6321 , p=0.0053  , df=5
+likelihood ratio test: chi2=16.5065 , p=0.0055  , df=5
+parameter F test:         F=3.2928  , p=0.0059  , df_denom=1079, df_num=5
+----------------------------------------
+食用菌: 单价 with 代理指数
+
+Granger Causality
+number of lags (no zero) 1
+ssr based F test:         F=39.4566 , p=0.0000  , df_denom=1091, df_num=1
+ssr based chi2 test:   chi2=39.5651 , p=0.0000  , df=1
+likelihood ratio test: chi2=38.8664 , p=0.0000  , df=1
+parameter F test:         F=39.4566 , p=0.0000  , df_denom=1091, df_num=1
+
+Granger Causality
+number of lags (no zero) 2
+ssr based F test:         F=10.1459 , p=0.0000  , df_denom=1088, df_num=2
+ssr based chi2 test:   chi2=20.3851 , p=0.0000  , df=2
+likelihood ratio test: chi2=20.1973 , p=0.0000  , df=2
+parameter F test:         F=10.1459 , p=0.0000  , df_denom=1088, df_num=2
+
+Granger Causality
+number of lags (no zero) 3
+ssr based F test:         F=6.7441  , p=0.0002  , df_denom=1085, df_num=3
+ssr based chi2 test:   chi2=20.3630 , p=0.0001  , df=3
+likelihood ratio test: chi2=20.1754 , p=0.0002  , df=3
+parameter F test:         F=6.7441  , p=0.0002  , df_denom=1085, df_num=3
+
+Granger Causality
+number of lags (no zero) 4
+ssr based F test:         F=4.0370  , p=0.0030  , df_denom=1082, df_num=4
+ssr based chi2 test:   chi2=16.2825 , p=0.0027  , df=4
+likelihood ratio test: chi2=16.1621 , p=0.0028  , df=4
+parameter F test:         F=4.0370  , p=0.0030  , df_denom=1082, df_num=4
+
+Granger Causality
+number of lags (no zero) 5
+ssr based F test:         F=3.4046  , p=0.0047  , df_denom=1079, df_num=5
+ssr based chi2 test:   chi2=17.1967 , p=0.0041  , df=5
+likelihood ratio test: chi2=17.0625 , p=0.0044  , df=5
+parameter F test:         F=3.4046  , p=0.0047  , df_denom=1079, df_num=5
